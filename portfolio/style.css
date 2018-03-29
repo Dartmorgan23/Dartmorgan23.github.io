@@ -1,0 +1,49 @@
+body{
+    font-family: Montserrat;
+}
+.head{
+        font-family: Montserrat;
+        font-size:40px;
+        margin:0 auto;
+        margin-top:0px;
+        text-align: center;
+}
+.head img{
+    margin:0px;
+}
+.head:nth-child(1){
+     margin-top:50px;
+}
+.q{
+    color:red;
+    margin-bottom:50px;
+}
+.apps{
+        display: flex;
+        width:520px;
+        text-align: center;
+        font-family: Montserrat;
+        font-size:20px;
+        margin:20px auto;
+        text-align: center;
+}
+.hover_text{
+    cursor: pointer;
+    margin-left:30px;
+}
+.hover_text:hover{
+    color:red;
+}
+.img{
+text-align: center;
+}
+.img img{
+    box-sizing: border-box;
+    cursor: pointer;
+    margin:20px;
+    width:400px;
+    height:220px;
+}
+.img img:hover{
+border:5px solid red;
+}
