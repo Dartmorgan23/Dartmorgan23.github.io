@@ -2,7 +2,7 @@
 body, html{margin:0px;padding:0px;font-size:15px;font-family:"Proxima Nova";}
 @font-face{font-family:"Proxima Nova";src:url("../fonts/ProximaNova-Bold.ttf");font-style:normal;font-weight:bold;}
 @font-face{font-family:"Proxima Nova";src:url("../fonts/ProximaNova-Regular.ttf");font-style:normal;font-weight:normal;}
-header{-moz-user-select:none;-ms-user-select:none;-o-user-select:none;-webkit-user-select:none;overflow:hidden;color:white;background-image:url(../img/header.png);background-repeat:no-repeat;background-size:cover;background-position:center center;background-attachment:fixed;height:100vh;text-transform:uppercase;font-family:"Proxima Nova";font-weight:bold;}
+header{-moz-user-select:none;-ms-user-select:none;-o-user-select:none;-webkit-user-select:none;overflow:hidden;color:white;background-image:url(../img/header.jpg);background-repeat:no-repeat;background-size:cover;background-position:center center;background-attachment:fixed;height:100vh;text-transform:uppercase;font-family:"Proxima Nova";font-weight:bold;}
 header .header_top .mobile_menu{position:absolute;visibility:hidden;}
 header .header_top .mobile_menu ul{display:flex;flex-direction:column;}
 header .header_top .mobile_menu ul li{cursor:pointer;margin:16px;}
