@@ -1,4 +1,12 @@
-@font-family{font-family:Parangon;src:url("../font/Parangon530C.otf");font-family:Futura;src:url("../font/futur.ttf");font-family:Helvetica;src:url("../font/HelveticaNeueCyr-Bold.ttf");}
+
+@font-face{
+    font-family:Parangon;
+    src:url("../font/Parangon530C.otf");
+    font-family:Futura;
+    src:url("../font/futur.ttf");
+    font-family:Helvetica;
+    src:url("../font/HelveticaNeueCyr-Bold.ttf");
+}
 html, body{font-size:25px;}
 a:hover, a{color:inherit;text-decoration:inherit;}
 li{list-style:none;}
